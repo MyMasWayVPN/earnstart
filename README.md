@@ -1,17 +1,31 @@
 # Cara Pakai
 
-## Jalankan
-
 ### Windows CMD
 
+##### -- Wajib Di Install
+
+- Git Bash
+- Node.js 18+
+- Browser
+
 ```bat
+git clone https://github.com/mymaswayvpn/earnstart
+cd earnstart
 node run.js
 ```
 
 ### Termux
+##### -- Wajib Di Install
+- Termux
+- Node.js
+- Kiwi Browser
+- Extension Bypass Telegram Web
 
 ```bash
 pkg update && pkg upgrade -y
+pkg install git
+git clone https://github.com/mymaswayvpn/earnstart
+cd earnstart
 pkg install nodejs
 node run.js
 ```
