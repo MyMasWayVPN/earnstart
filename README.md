@@ -38,12 +38,7 @@ node run.js
 4. Masukkan key ke terminal
 5. Masukkan `Query_ID`
    Jika Android, gunakan Kiwi Browser, install extension Bypass Telegram Web, buka web app bot, lalu salin `Query_ID` extension pada atau data query yang dibutuhkan.
-6. Pilih mode:
 
-```txt
-1 = cek sekali
-2 = auto claim
-```
 
 ## Hentikan Script
 
